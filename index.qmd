@@ -1,0 +1,11 @@
+---
+title: "Introduction"
+author: "Elizabeth Miller"
+about:
+    id: me
+    template: julia
+    image: img/fall2024headshot.jpeg
+---
+
+:::{#me}
+
